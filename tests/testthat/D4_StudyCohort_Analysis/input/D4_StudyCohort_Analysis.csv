@@ -1,0 +1,9 @@
+person_id,T0,group,fup_days,pyr,event_death,reason_censoring,p_score,include_after_trimming,ip_weight,subgroup_squamous,subgroup_brain
+1,2023-02-01,EXPOSED,365,1,1,Death,0.42,TRUE,0.95,Non-squamous,"Brain metastases, with RT"
+2,2022-06-10,EXPOSED,731,2,0,End of max follow-up,0.78,TRUE,0.51,Squamous,No brain metastases
+3,2024-08-20,EXPOSED,183,0.5,0,End of data collection,0.55,TRUE,0.91,Non-squamous,"Brain metastases, with RT"
+4,2023-01-15,EXPOSED,548,1.5,0,End of study period,0.65,TRUE,0.77,Non-squamous,No brain metastases
+5,2024-11-01,CONTROL,91,0.25,1,Death,0.31,TRUE,0.87,Non-squamous,No brain metastases
+6,2022-01-01,CONTROL,1096,3,0,End of max follow-up,0.4,TRUE,1,Squamous,"Brain metastases, no RT"
+7,2024-05-01,CONTROL,640,1.75,0,End of data collection,0.25,TRUE,0.8,Non-squamous,No brain metastases
+8,2023-08-01,CONTROL,913,2.5,0,End of study period,0.5,TRUE,1.2,Non-squamous,No brain metastases

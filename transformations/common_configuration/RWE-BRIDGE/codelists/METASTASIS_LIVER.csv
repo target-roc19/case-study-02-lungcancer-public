@@ -1,0 +1,3 @@
+﻿concept_id,concept_name,bridge_concept_id,cdm_table_name,column_name_1,keep_date_column_name,comment
+36770544,Metastasis to liver,METASTASIS_LIVER,MEASUREMENT,measurement_concept_id,measurement_date,
+35226180,Metastasis to intrahepatic bil,METASTASIS_LIVER,MEASUREMENT,measurement_concept_id,measurement_date,

@@ -1,0 +1,34 @@
+# RWE-BRIDGE Metadata Validator Configuration
+# 
+# This file configures paths and settings for the RWE-BRIDGE metadata validation
+# Update these paths according to your repository structure
+
+# Directory containing the main metadata files
+# (study_variables, concept_preprocessing, composite_study_variables, study_cohort)
+data_dir: "./transformations/common_configuration/RWE-BRIDGE/"
+
+# Paths to reference files for concept validation
+# These codelists will have their concept_ids transformed before validation
+reference_file_paths:
+  # DAP-specific concept mapping (no transformation)
+  dap_specific_concept_map: "./transformations/common_configuration/RWE-BRIDGE/dap_specific_concept_map.csv"
+  
+  # Codelists with concept_id transformation:
+  # concept_id := paste0(system, "_", event_abbreviation, "_", type)
+  codelist_events: "./transformations/common_configuration/RWE-BRIDGE/20260303_V2_ALL_full_codelist.csv"
+  codelist_procedures: NULL
+  
+  # Codelists with concept_id transformation:
+  # concept_id := toupper(drug_abbreviation)
+  codelist_medicines: "./transformations/common_configuration/RWE-BRIDGE/20260325_ALL_drug_proxies_codelist.csv"
+  
+  # Vaccines (no transformation)
+  codelist_vaccines: NULL
+
+# Validation options
+validation:
+  # Whether to fail the workflow if errors are found
+  fail_on_error: true
+  
+  # Whether to fail the workflow if warnings are found
+  fail_on_warning: false

@@ -1,0 +1,9 @@
+var;vartype;reference_category;label;force_in
+SV_AGE_CAT;CAT;<65;Age category (years);TRUE
+SV_SEX;CAT;M;Sex;TRUE
+SV_NSCLC_HISTOLOGY;CAT;ADENO;Histological subtype;TRUE
+SV_METASTASIS_LIVER;TF;FALSE;Liver metastases;TRUE
+SV_CNS_MET_RT;CAT;NO_CNS_MET;CNS metastases and radiotherapy;TRUE
+SV_METASTASIS_BONE;TF;FALSE;Bone metastases;TRUE
+SV_METASTASIS_COUNT;NUM;NA;Number of metastatic sites;TRUE
+SV_ECOG_STATUS;CAT;0;ECOG performance status;TRUE

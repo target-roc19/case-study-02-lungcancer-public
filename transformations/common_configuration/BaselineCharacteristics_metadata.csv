@@ -1,0 +1,10 @@
+var;type;expectedCat;label;parent;parent_cat;header
+SV_AGE;NUM2;NA;Age (years);NA;NA;NA
+SV_AGE_CAT;CAT;<65,65-75,>75;Age category (years);NA;NA;NA
+SV_SEX;CAT;M,F;Sex;NA;NA;NA
+SV_NSCLC_HISTOLOGY;CAT;ADENO,SQUAMOUS,OTHER;Histological subtype;NA;NA;NA
+SV_METASTASIS_LIVER;TF;NA;Liver metastases;NA;NA;NA
+SV_CNS_MET_RT;CAT;NO_CNS_MET,CNS_NO_RT,CNS_WITH_RT;CNS metastases and radiotherapy;NA;NA;NA
+SV_METASTASIS_BONE;TF;NA;Bone metastases;NA;NA;NA
+SV_METASTASIS_COUNT;NUM2;NA;Number of metastatic sites;NA;NA;NA
+SV_ECOG_STATUS;CAT;0,1;ECOG performance status;NA;NA;NA

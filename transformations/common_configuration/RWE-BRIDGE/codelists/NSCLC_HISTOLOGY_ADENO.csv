@@ -1,0 +1,145 @@
+concept_id,concept_code,concept_name,bridge_concept_id,cdm_table_name,column_name_1,keep_date_column_name
+36517902,8253/3-C34.0,"Adenocarcinoma of lung, mucinous of main bronchus",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36518742,8140/3-C34.8,"Adenocarcinoma, NOS, of overlapping lesion of lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36519384,8201/3-C34.9,"Cribriform carcinoma, NOS, of lung, NOS",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36520186,8470/3-C34.3,"Mucinous cystadenocarcinoma, NOS, of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36520679,8551/3-C34.8,Acinar cell cystadenocarcinoma of overlapping lesion of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36520748,8254/3-C34.2,"Adenocarcinoma of lung, mixed mucinous and non-mucinous of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36521066,8141/3-C34.0,Scirrhous adenocarcinoma of main bronchus,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36525052,8141/3-C34.1,"Scirrhous adenocarcinoma of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36525316,8251/3-C34.0,Alveolar adenocarcinoma of main bronchus,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36526433,8141/3-C34.8,Scirrhous adenocarcinoma of overlapping lesion of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36528862,8253/3-C34.8,"Adenocarcinoma of lung, mucinous of overlapping lesion of lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36529938,8323/3-C34.9,"Mixed cell adenocarcinoma of lung, NOS",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36530069,8481/3-C34.8,Mucin-producing adenocarcinoma of overlapping lesion of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36531338,8550/3-C34.8,Acinar cell carcinoma of overlapping lesion of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36531543,8230/3-C34.8,"Solid carcinoma, NOS, of overlapping lesion of lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36531901,8252/3-C34.8,"Bronchiolo-alveolar carcinoma, non-mucinous of overlapping lesion of lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36532293,8323/3-C34.3,"Mixed cell adenocarcinoma of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36534747,8201/3-C34.2,"Cribriform carcinoma, NOS, of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36535558,8250/3-C34.8,Lepidic adenocarcinoma of overlapping lesion of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36536832,8490/3-C34.8,Signet ring cell carcinoma of overlapping lesion of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36537460,8323/3-C34.8,Mixed cell adenocarcinoma of overlapping lesion of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36537768,8576/3-C34.3,"Hepatoid adenocarcinoma of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36538056,8251/3-C34.3,"Alveolar adenocarcinoma of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36539497,8141/3-C34.9,"Scirrhous adenocarcinoma of lung, NOS",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36539786,8490/3-C34.2,"Signet ring cell carcinoma of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36541038,8141/3-C34.3,"Scirrhous adenocarcinoma of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36541364,8551/3-C34.1,"Acinar cell cystadenocarcinoma of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36541699,8230/3-C34.0,"Solid carcinoma, NOS, of main bronchus",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36545286,8230/3-C34.2,"Solid carcinoma, NOS, of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36545761,8576/3-C34.0,Hepatoid adenocarcinoma of main bronchus,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36546635,8144/3-C34.9,"Adenocarcinoma, intestinal type of lung, NOS",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36547678,8201/3-C34.0,"Cribriform carcinoma, NOS, of main bronchus",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36548626,8255/3-C34.8,Adenocarcinoma with mixed subtypes of overlapping lesion of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36549175,8141/3-C34.2,"Scirrhous adenocarcinoma of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36549522,8576/3-C34.9,"Hepatoid adenocarcinoma of lung, NOS",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36552385,8254/3-C34.8,"Adenocarcinoma of lung, mixed mucinous and non-mucinous of overlapping lesion of lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+37311684,8551/3-C34.9,Acinar cell cystadenocarcinoma of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36553787,8253/3-C34.2,"Adenocarcinoma of lung, mucinous of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36555703,8260/3-C34.8,"Papillary adenocarcinoma, NOS, of overlapping lesion of lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36556450,8480/3-C34.8,Mucinous adenocarcinoma of overlapping lesion of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36556614,8310/3-C34.2,"Clear cell adenocarcinoma, NOS, of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36557699,8576/3-C34.1,"Hepatoid adenocarcinoma of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36558400,8576/3-C34.8,Hepatoid adenocarcinoma of overlapping lesion of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36558515,8201/3-C34.1,"Cribriform carcinoma, NOS, of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36558877,8251/3-C34.9,"Alveolar adenocarcinoma of lung, NOS",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36559892,8251/3-C34.8,Alveolar adenocarcinoma of overlapping lesion of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36560716,8254/3-C34.0,"Adenocarcinoma of lung, mixed mucinous and non-mucinous of main bronchus",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36560845,8550/3-C34.0,Acinar cell carcinoma of main bronchus,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36560854,8201/3-C34.3,"Cribriform carcinoma, NOS, of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36561283,8551/3-C34.0,Acinar cell cystadenocarcinoma of main bronchus,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36561810,8252/3-C34.0,"Bronchiolo-alveolar carcinoma, non-mucinous of main bronchus",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36562863,8576/3-C34.2,"Hepatoid adenocarcinoma of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36563105,8323/3-C34.2,"Mixed cell adenocarcinoma of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36563834,8323/3-C34.0,Mixed cell adenocarcinoma of main bronchus,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36564508,8551/3-C34.2,"Acinar cell cystadenocarcinoma of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36565633,8250/3-C34.0,Lepidic adenocarcinoma of main bronchus,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36565786,8201/3-C34.8,"Cribriform carcinoma, NOS, of overlapping lesion of lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36567491,8310/3-C34.8,"Clear cell adenocarcinoma, NOS, of overlapping lesion of lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36567546,8323/3-C34.1,"Mixed cell adenocarcinoma of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36567582,8551/3-C34.3,"Acinar cell cystadenocarcinoma of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42511673,8256/3-C34.8,"Minimally invasive adenocarcinoma, non-mucinous of overlapping lesion of lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42511851,8440/3-C34.3,"Cystadenocarcinoma, NOS, of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42511853,8256/3-C34.1,"Minimally invasive adenocarcinoma, non-mucinous of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42511919,8144/3-C34.1,"Adenocarcinoma, intestinal type of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42511962,8265/3-C34.2,"Micropapillary carcinoma, NOS, of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42511979,8256/3-C34.2,"Minimally invasive adenocarcinoma, non-mucinous of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512102,8333/3-C34.2,"Fetal adenocarcinoma of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512167,8333/3-C34.8,Fetal adenocarcinoma of overlapping lesion of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512222,8257/3-C34.0,"Minimally invasive adenocarcinoma, mucinous of main bronchus",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512246,8257/3-C34.3,"Minimally invasive adenocarcinoma, mucinous of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512265,8265/3-C34.3,"Micropapillary carcinoma, NOS, of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512311,8333/3-C34.0,Fetal adenocarcinoma of main bronchus,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512326,8333/3-C34.3,"Fetal adenocarcinoma of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512336,8256/3-C34.9,"Minimally invasive adenocarcinoma, non-mucinous of lung, NOS",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512380,8257/3-C34.2,"Minimally invasive adenocarcinoma, mucinous of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512456,8265/3-C34.0,"Micropapillary carcinoma, NOS, of main bronchus",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512505,8265/3-C34.9,"Micropapillary carcinoma, NOS, of lung, NOS",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512569,8256/3-C34.0,"Minimally invasive adenocarcinoma, non-mucinous of main bronchus",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512616,8257/3-C34.8,"Minimally invasive adenocarcinoma, mucinous of overlapping lesion of lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512620,8257/3-C34.9,"Minimally invasive adenocarcinoma, mucinous of lung, NOS",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512752,8265/3-C34.1,"Micropapillary carcinoma, NOS, of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512758,8333/3-C34.1,"Fetal adenocarcinoma of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512801,8265/3-C34.8,"Micropapillary carcinoma, NOS, of overlapping lesion of lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512859,8256/3-C34.3,"Minimally invasive adenocarcinoma, non-mucinous of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512867,8257/3-C34.1,"Minimally invasive adenocarcinoma, mucinous of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499508,8310/3-C34.0,"Clear cell adenocarcinoma, NOS, of main bronchus",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499513,8490/3-C34.3,"Signet ring cell carcinoma of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499688,8252/3-C34.1,"Bronchiolo-alveolar carcinoma, non-mucinous of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499741,8250/3-C34.9,"Lepidic adenocarcinoma of lung, NOS",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499882,8140/3-C34.1,"Adenocarcinoma, NOS, of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499889,8254/3-C34.3,"Adenocarcinoma of lung, mixed mucinous and non-mucinous of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499915,8310/3-C34.1,"Clear cell adenocarcinoma, NOS, of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500061,8230/3-C34.1,"Solid carcinoma, NOS, of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500072,8480/3-C34.1,"Mucinous adenocarcinoma of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500201,8470/3-C34.1,"Mucinous cystadenocarcinoma, NOS, of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500290,8140/3-C34.0,"Adenocarcinoma, NOS, of main bronchus",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500302,8481/3-C34.0,Mucin-producing adenocarcinoma of main bronchus,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500303,8481/3-C34.2,"Mucin-producing adenocarcinoma of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500356,8250/3-C34.2,"Lepidic adenocarcinoma of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500359,8250/3-C34.3,"Lepidic adenocarcinoma of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500414,8255/3-C34.1,"Adenocarcinoma with mixed subtypes of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500415,8260/3-C34.3,"Papillary adenocarcinoma, NOS, of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500448,8253/3-C34.1,"Adenocarcinoma of lung, mucinous of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500458,8490/3-C34.0,Signet ring cell carcinoma of main bronchus,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500730,8260/3-C34.0,"Papillary adenocarcinoma, NOS, of main bronchus",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500790,8252/3-C34.2,"Bronchiolo-alveolar carcinoma, non-mucinous of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501357,8550/3-C34.3,"Acinar cell carcinoma of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501404,8140/3-C34.3,"Adenocarcinoma, NOS, of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501411,8481/3-C34.3,"Mucin-producing adenocarcinoma of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501438,8250/3-C34.1,"Lepidic adenocarcinoma of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501585,8550/3-C34.2,"Acinar cell carcinoma of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501794,8251/3-C34.1,"Alveolar adenocarcinoma of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501795,8255/3-C34.0,Adenocarcinoma with mixed subtypes of main bronchus,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502176,8260/3-C34.1,"Papillary adenocarcinoma, NOS, of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502329,8140/3-C34.2,"Adenocarcinoma, NOS, of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502334,8254/3-C34.1,"Adenocarcinoma of lung, mixed mucinous and non-mucinous of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502341,8480/3-C34.3,"Mucinous adenocarcinoma of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502390,8230/3-C34.3,"Solid carcinoma, NOS, of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502466,8255/3-C34.3,"Adenocarcinoma with mixed subtypes of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502543,8480/3-C34.2,"Mucinous adenocarcinoma of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502549,8550/3-C34.1,"Acinar cell carcinoma of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502623,8253/3-C34.3,"Adenocarcinoma of lung, mucinous of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502703,8255/3-C34.2,"Adenocarcinoma with mixed subtypes of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502711,8490/3-C34.1,"Signet ring cell carcinoma of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502876,8481/3-C34.1,"Mucin-producing adenocarcinoma of upper lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502943,8260/3-C34.2,"Papillary adenocarcinoma, NOS, of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502949,8310/3-C34.3,"Clear cell adenocarcinoma, NOS, of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502952,8480/3-C34.0,Mucinous adenocarcinoma of main bronchus,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503018,8252/3-C34.3,"Bronchiolo-alveolar carcinoma, non-mucinous of lower lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503093,8481/3-C34.9,"Mucin-producing adenocarcinoma of lung, NOS",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503152,8251/3-C34.2,"Alveolar adenocarcinoma of middle lobe, lung",NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768916,8140/3-C34.9,Primary adenocarcinoma of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768885,8230/3-C34.9,Primary solid carcinoma of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768931,8252/3-C34.9,Primary non-mucinous bronchiolo-alveolar carcinoma of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768932,8253/3-C34.9,Primary mucinous bronchiolo-alveolar carcinoma of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768930,8254/3-C34.9,Primary mixed mucinous and non-mucinous bronchiolo-alveolar carcinoma of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768880,8255/3-C34.9,Primary mixed subtype adenocarcinoma of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768886,8260/3-C34.9,Primary papillary adenocarcinoma of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+46272955,8310/3-C34.9,Primary clear cell adenocarcinoma of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768879,8333/3-C34.9,Primary fetal adenocarcinoma of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45769034,8470/3-C34.9,Primary mucinous cystadenocarcinoma of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768917,8480/3-C34.9,Primary mucinous adenocarcinoma of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45772933,8490/3-C34.9,Primary signet ring cell carcinoma of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768884,8550/3-C34.9,Primary acinar cell carcinoma of lung,NSCLC_HISTOLOGY_ADENO,CONDITION_OCCURENCE,condition_concept_id,condition_start_date

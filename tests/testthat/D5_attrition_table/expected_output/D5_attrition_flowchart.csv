@@ -1,0 +1,10 @@
+step,phase,reason,n_excluded
+2,First Exclude,did NOT receive nivolumab + ipilimumab or pembrolizumab,1
+3,Second Exclude,NOT started index or reference drugs within 90 days from diagnosis,1
+4,First Exclude,were younger than 18 at index,1
+5,First Exclude,without stage IV,1
+6,First Exclude,without PDL1 <1%,1
+7,First Exclude,"had EGFR, ALK or ROS1 mutation",1
+8,First Exclude,had a previous malignancy / cancer treatment,1
+9,Second Exclude,had NO ECOG PS 0/1,1
+10,Second Exclude,did NOT receive chemotherapy between -28 and 0 days,1

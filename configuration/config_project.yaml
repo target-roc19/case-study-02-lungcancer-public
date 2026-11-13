@@ -1,0 +1,128 @@
+DEAP_configuration:
+  name: NKR
+  data_instance: data/D2_cdm/20260916_Synthetic_Target_CS2_OMOP_Postgres_parquet
+  database_path: data/D2_cdm/d2.duckdb
+  data_model: OMOP
+prepare_db_omop:
+  cdm_metadata: transformations/common_configuration/CDM_metadata.rds
+  auxiliary_functions: transformations/common_functionality/functions/move_table_schema.R
+  database_loader_config: configuration/config_set_db.json
+  output: data/D2_cdm/d2.duckdb
+set_db_omop:
+  cdm_metadata: transformations/common_configuration/CDM_metadata.rds
+  auxiliary_functions: transformations/common_functionality/functions/move_table_schema.R
+  database_loader_config: configuration/config_set_db.json
+  output: data/D2_cdm/d2.duckdb
+create_simple_concepts_omop:
+  since_when_data_complete: transformations/T2_semantic_harmonization/intermediate_data_file/since_when_data_complete.rds
+  d3_spells: data/D3_study_variables/D3_SPELLS.parquet
+create_complex_concepts:
+  spells_dir: data/D3_study_variables/D3_SPELLS.parquet
+  input_dir: data/D3_study_variables/D3_CONCEPTS_parquet
+  output_dir: data/D3_study_variables/D3_CONCEPTS_parquet
+  concept_meaning: transformations/common_configuration/RWE-BRIDGE/concept_meaning.csv
+  functions: transformations/T2_semantic_harmonization/source_code/functions
+process_persons:
+  persons: data/D2_cdm/d2.duckdb
+  cdm_source: data/D2_cdm/d2.duckdb
+  source_file: ~
+  output_persons: transformations/T2_semantic_harmonization/intermediate_data_file
+process_observation_periods:
+  D3_person_file: data/D3_study_variables/D3_PERSONS.parquet
+  observation_periods_file: data/D2_cdm/d2.duckdb
+get_counts_all_concepts: ~
+calculate_eligibility:
+  d3_multivariate_episodes: data/D3_study_variables/D3_MULTIVARIATE_EPISODES.parquet
+  output: data/D3_study_variables/D3_ELIGIBILITY.parquet
+episodes_and_eligibility:
+  d3_spells: data/D3_study_variables/D3_SPELLS.parquet
+  d3_rsvproducts: data/D3_study_variables/d3_rsvproducts.parquet
+  d3_all_concepts: data/D3_study_variables/D3_CONCEPTS_parquet
+  d3_univariate_episodes: data/D3_study_variables/D3_UNIVARIATE_EPISODES_parquet
+  d3_multivariate_episodes: data/D3_study_variables/D3_MULTIVARIATE_EPISODES.parquet
+  source_info: ~
+anchor_studyvariables:
+  d4_studycohort: data/D4_analytic_datasets/D4_StudyCohort.parquet
+  d3_concepts: data/D3_study_variables/D3_CONCEPTS_parquet
+  output_hive: D4_STUDYVARIABLES_ANCHORED_parquet
+get_wide_anchored_covariates:
+  d4_studycohort: data/D4_analytic_datasets/D4_StudyCohort.parquet
+  d3_persons: data/D3_study_variables/D3_PERSONS.parquet
+  anchor_hive: data/D4_analytic_datasets/D4_STUDYVARIABLES_ANCHORED_parquet
+  combined_anchor_metadata: transformations/T3_study_design/configuration/combined_anchor_metadata.csv
+calculate_fup:
+  d4_studycohort: data/D4_analytic_datasets/D4_StudyCohort.parquet
+  d3_persons: data/D3_study_variables/D3_PERSONS.parquet
+create_population_vaccinated: ~
+attrition_table:
+  d3_eligibility: data/D3_study_variables/D3_ELIGIBILITY.parquet
+  output_d5: data/D5_results
+  # Set to true to read D3_ELIGIBILITY from the test fixture instead of D3
+  use_synthetic_data: false
+  synthetic_data: tests/testthat/D5_attrition_table/input/D3_ELIGIBILITY.csv
+compute_d4_StudyCohort_IPTW:
+  d4_covariates: data/D4_analytic_datasets/D4_StudyCohort_Covariates.parquet
+  ps_variables: configuration/psmodel_variables.csv
+  ps_trim_bounds: ~   # Set to c(lower, upper) to trim propensity scores, or ~ for no trimming
+  se_threshold: 10
+  output_d4: data/D4_analytic_datasets
+  output_d5: data/D5_results
+  use_synthetic_data: false
+  synthetic_data: tests/testthat/D4_StudyCohort_IPTW/input/D4_StudyCohort_Covariates.csv
+describe_d4_StudyCohort_IPTW:
+  d4_iptw: data/D4_analytic_datasets/D4_StudyCohort_IPTW.parquet
+  d4_covariates: data/D4_analytic_datasets/D4_StudyCohort_Covariates.parquet
+  ps_variables: configuration/psmodel_variables.csv
+  baseline_metadata: transformations/common_configuration/BaselineCharacteristics_metadata.csv
+  d5_dir: data/D5_results
+  ps_trim_bounds: ~
+  output_d5: data/D5_results
+  use_synthetic_data: false
+  synthetic_data: tests/testthat/D4_StudyCohort_IPTW/input/D4_StudyCohort_Covariates.csv
+baseline_table:
+  d4_covariates: data/D4_analytic_datasets/D4_StudyCohort_Covariates.parquet
+  d4_iptw: data/D4_analytic_datasets/D4_StudyCohort_IPTW.parquet
+  baseline_metadata: transformations/common_configuration/BaselineCharacteristics_metadata.csv
+  output_d5: data/D5_results
+  use_synthetic_data: false
+  synthetic_covariates: tests/testthat/D5_baseline_table/input/D4_StudyCohort_Covariates.csv
+  synthetic_iptw: tests/testthat/D5_baseline_table/input/D4_StudyCohort_IPTW.csv
+fup_censoring_table:
+  d4_fup: data/D4_analytic_datasets/D4_StudyCohort_FUP.parquet
+  output_d5: data/D5_results
+  use_synthetic_data: false
+  synthetic_fup: tests/testthat/D5_fup_censoring_table/input/D4_StudyCohort_FUP.csv
+create_d4_StudyCohort_Analysis:
+  d4_fup: data/D4_analytic_datasets/D4_StudyCohort_FUP.parquet
+  d4_iptw: data/D4_analytic_datasets/D4_StudyCohort_IPTW.parquet
+  d4_covariates: data/D4_analytic_datasets/D4_StudyCohort_Covariates.parquet
+  use_synthetic_data: false
+  synthetic_fup: tests/testthat/D5_fup_censoring_table/input/D4_StudyCohort_FUP.csv
+  synthetic_iptw: tests/testthat/D5_baseline_table/input/D4_StudyCohort_IPTW.csv
+  synthetic_covariates: tests/testthat/D5_baseline_table/input/D4_StudyCohort_Covariates.csv
+outcome_analysis:
+  d4_analysis: data/D4_analytic_datasets/D4_StudyCohort_Analysis.parquet
+  output_d5: data/D5_results
+  use_synthetic_data: false
+  synthetic_analysis: tests/testthat/D4_StudyCohort_Analysis/input/D4_StudyCohort_Analysis.csv
+survival_supplement:
+  d4_analysis: data/D4_analytic_datasets/D4_StudyCohort_Analysis.parquet
+  output_d5: data/D5_results
+  use_synthetic_data: false
+  synthetic_analysis: tests/testthat/D4_StudyCohort_Analysis/input/D4_StudyCohort_Analysis.csv
+create_D5_table1_1: ~
+create_D5_table1_2: ~
+create_D5_figure1: ~
+create_D6_table1_1: ~
+create_D6_table1_2: ~
+run_hash_log_export: ~
+dir_intermediate_QC:
+  D3_spells: ~
+  D3_persons: ~
+  d3_rsvproducts: ~
+  d3_elegibility: ~
+outputs:
+  dir_d3: data/D3_study_variables
+  dir_d4: data/D4_analytic_datasets
+  dir_d5: data/D5_results
+  dir_d6: data/D6_report

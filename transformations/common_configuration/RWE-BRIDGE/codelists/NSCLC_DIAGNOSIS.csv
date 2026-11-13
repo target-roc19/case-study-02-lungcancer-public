@@ -1,0 +1,301 @@
+﻿concept_id,concept_code,concept_name,bridge_concept_id,cdm_table_name,column_name_1,keep_date_column_name
+36517902,8253/3-C34.0,"Adenocarcinoma of lung, mucinous of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36518733,8005/3-C34.1,"Malignant tumor, clear cell type of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36518742,8140/3-C34.8,"Adenocarcinoma, NOS, of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36519384,8201/3-C34.9,"Cribriform carcinoma, NOS, of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36520186,8470/3-C34.3,"Mucinous cystadenocarcinoma, NOS, of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36520546,8082/3-C34.8,Lymphoepithelial carcinoma of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36520679,8551/3-C34.8,Acinar cell cystadenocarcinoma of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36520748,8254/3-C34.2,"Adenocarcinoma of lung, mixed mucinous and non-mucinous of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36520827,8072/3-C34.8,"Squamous cell carcinoma, large cell, nonkeratinizing, NOS, of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36521066,8141/3-C34.0,Scirrhous adenocarcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36522039,8075/3-C34.0,"Squamous cell carcinoma, adenoid of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36522300,8050/3-C34.2,"Papillary carcinoma, NOS, of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36522516,8005/3-C34.0,"Malignant tumor, clear cell type of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36522910,8005/3-C34.2,"Malignant tumor, clear cell type of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36523297,8034/3-C34.8,Polygonal cell carcinoma of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36524040,8123/3-C34.1,"Basaloid carcinoma of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36524261,8014/3-C34.0,Large cell carcinoma with rhabdoid phenotype of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36524730,8073/3-C34.8,"Squamous cell carcinoma, small cell, nonkeratinizing of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36525052,8141/3-C34.1,"Scirrhous adenocarcinoma of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36525316,8251/3-C34.0,Alveolar adenocarcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36525385,8120/3-C34.3,"Transitional cell carcinoma, NOS, of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36525571,8075/3-C34.1,"Squamous cell carcinoma, adenoid of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36526433,8141/3-C34.8,Scirrhous adenocarcinoma of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36526440,8014/3-C34.8,Large cell carcinoma with rhabdoid phenotype of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36527742,8001/3-C34.2,"Tumor cells, malignant of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36527781,8005/3-C34.9,"Malignant tumor, clear cell type of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36528862,8253/3-C34.8,"Adenocarcinoma of lung, mucinous of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36529129,8001/3-C34.8,"Tumor cells, malignant of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36529321,8034/3-C34.1,"Polygonal cell carcinoma of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36529938,8323/3-C34.9,"Mixed cell adenocarcinoma of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36530069,8481/3-C34.8,Mucin-producing adenocarcinoma of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36530340,8000/3-C34.8,"Neoplasm, malignant of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36530830,8010/3-C34.8,"Carcinoma, NOS, of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36531136,8078/3-C34.8,Squamous cell carcinoma with horn formation of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36531338,8550/3-C34.8,Acinar cell carcinoma of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36531347,8084/3-C34.0,"Squamous cell carcinoma, clear cell type of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36531398,8082/3-C34.3,"Lymphoepithelial carcinoma of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36531433,8051/3-C34.8,"Verrucous carcinoma, NOS, of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36531543,8230/3-C34.8,"Solid carcinoma, NOS, of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36531819,8070/3-C34.8,"Squamous cell carcinoma, NOS, of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36531901,8252/3-C34.8,"Bronchiolo-alveolar carcinoma, non-mucinous of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36532293,8323/3-C34.3,"Mixed cell adenocarcinoma of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36533051,8082/3-C34.9,"Lymphoepithelial carcinoma of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36533515,8050/3-C34.8,"Papillary carcinoma, NOS, of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36534747,8201/3-C34.2,"Cribriform carcinoma, NOS, of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36535188,8082/3-C34.0,Lymphoepithelial carcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36535558,8250/3-C34.8,Lepidic adenocarcinoma of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36535903,8074/3-C34.8,"Squamous cell carcinoma, spindle cell of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36536720,8123/3-C34.8,Basaloid carcinoma of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36536832,8490/3-C34.8,Signet ring cell carcinoma of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36537230,8051/3-C34.0,"Verrucous carcinoma, NOS, of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36537460,8323/3-C34.8,Mixed cell adenocarcinoma of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36537768,8576/3-C34.3,"Hepatoid adenocarcinoma of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36538056,8251/3-C34.3,"Alveolar adenocarcinoma of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36538464,8078/3-C34.2,"Squamous cell carcinoma with horn formation of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36538582,8051/3-C34.9,"Verrucous carcinoma, NOS, of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36538987,8051/3-C34.3,"Verrucous carcinoma, NOS, of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36539223,8034/3-C34.2,"Polygonal cell carcinoma of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36539497,8141/3-C34.9,"Scirrhous adenocarcinoma of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36539661,8034/3-C34.9,"Polygonal cell carcinoma of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36539786,8490/3-C34.2,"Signet ring cell carcinoma of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36540691,8123/3-C34.9,"Basaloid carcinoma of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36541027,8078/3-C34.0,Squamous cell carcinoma with horn formation of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36541038,8141/3-C34.3,"Scirrhous adenocarcinoma of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36541364,8551/3-C34.1,"Acinar cell cystadenocarcinoma of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36541640,8076/3-C34.8,"Squamous cell carcinoma, microinvasive of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36541699,8230/3-C34.0,"Solid carcinoma, NOS, of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36541713,8083/3-C34.8,Basaloid squamous cell carcinoma of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36543984,8074/3-C34.9,"Squamous cell carcinoma, spindle cell of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36545284,8005/3-C34.3,"Malignant tumor, clear cell type of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36545286,8230/3-C34.2,"Solid carcinoma, NOS, of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36545761,8576/3-C34.0,Hepatoid adenocarcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36545785,8075/3-C34.3,"Squamous cell carcinoma, adenoid of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36546635,8144/3-C34.9,"Adenocarcinoma, intestinal type of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36547553,8001/3-C34.1,"Tumor cells, malignant of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36547678,8201/3-C34.0,"Cribriform carcinoma, NOS, of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36548201,8075/3-C34.2,"Squamous cell carcinoma, adenoid of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36548626,8255/3-C34.8,Adenocarcinoma with mixed subtypes of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36548902,8123/3-C34.3,"Basaloid carcinoma of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36549159,8076/3-C34.2,"Squamous cell carcinoma, microinvasive of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36549175,8141/3-C34.2,"Scirrhous adenocarcinoma of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36549522,8576/3-C34.9,"Hepatoid adenocarcinoma of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36550921,8014/3-C34.9,"Large cell carcinoma with rhabdoid phenotype of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36550929,8120/3-C34.0,"Transitional cell carcinoma, NOS, of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36551824,8046/3-C34.8,Non-small cell carcinoma of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36552385,8254/3-C34.8,"Adenocarcinoma of lung, mixed mucinous and non-mucinous of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36552939,8076/3-C34.1,"Squamous cell carcinoma, microinvasive of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+37311684,8551/3-C34.9,Acinar cell cystadenocarcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36553787,8253/3-C34.2,"Adenocarcinoma of lung, mucinous of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36554307,8120/3-C34.2,"Transitional cell carcinoma, NOS, of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36554642,8076/3-C34.9,"Squamous cell carcinoma, microinvasive of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36554751,8084/3-C34.2,"Squamous cell carcinoma, clear cell type of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36555136,8123/3-C34.2,"Basaloid carcinoma of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36555703,8260/3-C34.8,"Papillary adenocarcinoma, NOS, of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36556450,8480/3-C34.8,Mucinous adenocarcinoma of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36556614,8310/3-C34.2,"Clear cell adenocarcinoma, NOS, of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36556975,8078/3-C34.1,"Squamous cell carcinoma with horn formation of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36557699,8576/3-C34.1,"Hepatoid adenocarcinoma of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36557711,8120/3-C34.8,"Transitional cell carcinoma, NOS, of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36557751,8078/3-C34.9,"Squamous cell carcinoma with horn formation of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36557771,8078/3-C34.3,"Squamous cell carcinoma with horn formation of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36558400,8576/3-C34.8,Hepatoid adenocarcinoma of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36558515,8201/3-C34.1,"Cribriform carcinoma, NOS, of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36558543,8020/3-C34.8,"Carcinoma, undifferentiated, NOS, of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36558592,8123/3-C34.0,Basaloid carcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36558877,8251/3-C34.9,"Alveolar adenocarcinoma of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36559186,8051/3-C34.2,"Verrucous carcinoma, NOS, of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36559892,8251/3-C34.8,Alveolar adenocarcinoma of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36560118,8052/3-C34.8,Papillary squamous cell carcinoma of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36560716,8254/3-C34.0,"Adenocarcinoma of lung, mixed mucinous and non-mucinous of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36560845,8550/3-C34.0,Acinar cell carcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36560854,8201/3-C34.3,"Cribriform carcinoma, NOS, of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36560935,8014/3-C34.2,"Large cell carcinoma with rhabdoid phenotype of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36561274,8052/3-C34.2,"Papillary squamous cell carcinoma of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36561283,8551/3-C34.0,Acinar cell cystadenocarcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36561699,8034/3-C34.3,"Polygonal cell carcinoma of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36561810,8252/3-C34.0,"Bronchiolo-alveolar carcinoma, non-mucinous of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36561870,8075/3-C34.9,"Squamous cell carcinoma, adenoid of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36562727,8051/3-C34.1,"Verrucous carcinoma, NOS, of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36562863,8576/3-C34.2,"Hepatoid adenocarcinoma of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36563105,8323/3-C34.2,"Mixed cell adenocarcinoma of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36563600,8073/3-C34.2,"Squamous cell carcinoma, small cell, nonkeratinizing of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36563834,8323/3-C34.0,Mixed cell adenocarcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36564290,8001/3-C34.3,"Tumor cells, malignant of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36564508,8551/3-C34.2,"Acinar cell cystadenocarcinoma of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36565633,8250/3-C34.0,Lepidic adenocarcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36565647,8012/3-C34.8,"Large cell carcinoma, NOS, of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36565786,8201/3-C34.8,"Cribriform carcinoma, NOS, of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36566035,8005/3-C34.8,"Malignant tumor, clear cell type of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36566369,8075/3-C34.8,"Squamous cell carcinoma, adenoid of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36567060,8084/3-C34.8,"Squamous cell carcinoma, clear cell type of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36567150,8074/3-C34.0,"Squamous cell carcinoma, spindle cell of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36567491,8310/3-C34.8,"Clear cell adenocarcinoma, NOS, of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36567522,8071/3-C34.8,"Squamous cell carcinoma, keratinizing, NOS, of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36567546,8323/3-C34.1,"Mixed cell adenocarcinoma of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36567582,8551/3-C34.3,"Acinar cell cystadenocarcinoma of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36567740,8020/3-C34.0,"Carcinoma, undifferentiated, NOS, of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36567972,8076/3-C34.0,"Squamous cell carcinoma, microinvasive of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36568135,8001/3-C34.0,"Tumor cells, malignant of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36568204,8001/3-C34.9,"Tumor cells, malignant of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42511673,8256/3-C34.8,"Minimally invasive adenocarcinoma, non-mucinous of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42511764,8023/3-C34.0,Nuclear protein in testis (NUT)-associated carcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42511775,8023/3-C34.1,"Nuclear protein in testis (NUT)-associated carcinoma of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42511851,8440/3-C34.3,"Cystadenocarcinoma, NOS, of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42511853,8256/3-C34.1,"Minimally invasive adenocarcinoma, non-mucinous of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42511919,8144/3-C34.1,"Adenocarcinoma, intestinal type of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42511962,8265/3-C34.2,"Micropapillary carcinoma, NOS, of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42511979,8256/3-C34.2,"Minimally invasive adenocarcinoma, non-mucinous of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512043,8023/3-C34.3,"Nuclear protein in testis (NUT)-associated carcinoma of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512060,8023/3-C34.9,"Nuclear protein in testis (NUT)-associated carcinoma of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512102,8333/3-C34.2,"Fetal adenocarcinoma of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512108,8023/3-C34.8,Nuclear protein in testis (NUT)-associated carcinoma of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512167,8333/3-C34.8,Fetal adenocarcinoma of overlapping lesion of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512203,8023/3-C34.2,"Nuclear protein in testis (NUT)-associated carcinoma of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512222,8257/3-C34.0,"Minimally invasive adenocarcinoma, mucinous of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512246,8257/3-C34.3,"Minimally invasive adenocarcinoma, mucinous of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512265,8265/3-C34.3,"Micropapillary carcinoma, NOS, of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512311,8333/3-C34.0,Fetal adenocarcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512326,8333/3-C34.3,"Fetal adenocarcinoma of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512336,8256/3-C34.9,"Minimally invasive adenocarcinoma, non-mucinous of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512380,8257/3-C34.2,"Minimally invasive adenocarcinoma, mucinous of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512456,8265/3-C34.0,"Micropapillary carcinoma, NOS, of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512505,8265/3-C34.9,"Micropapillary carcinoma, NOS, of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512569,8256/3-C34.0,"Minimally invasive adenocarcinoma, non-mucinous of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512616,8257/3-C34.8,"Minimally invasive adenocarcinoma, mucinous of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512620,8257/3-C34.9,"Minimally invasive adenocarcinoma, mucinous of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512752,8265/3-C34.1,"Micropapillary carcinoma, NOS, of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512758,8333/3-C34.1,"Fetal adenocarcinoma of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512801,8265/3-C34.8,"Micropapillary carcinoma, NOS, of overlapping lesion of lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512859,8256/3-C34.3,"Minimally invasive adenocarcinoma, non-mucinous of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512867,8257/3-C34.1,"Minimally invasive adenocarcinoma, mucinous of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499007,8050/3-C34.3,"Papillary carcinoma, NOS, of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499010,8070/3-C34.2,"Squamous cell carcinoma, NOS, of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499422,8046/3-C34.1,"Non-small cell carcinoma of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+4311501,8000/3-C34.2,Primary malignant neoplasm of middle lobe of right lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499488,8070/3-C34.3,"Squamous cell carcinoma, NOS, of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499508,8310/3-C34.0,"Clear cell adenocarcinoma, NOS, of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499513,8490/3-C34.3,"Signet ring cell carcinoma of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499688,8252/3-C34.1,"Bronchiolo-alveolar carcinoma, non-mucinous of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499726,8072/3-C34.9,"Squamous cell carcinoma, large cell, nonkeratinizing, NOS, of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499730,8082/3-C34.2,"Lymphoepithelial carcinoma of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499741,8250/3-C34.9,"Lepidic adenocarcinoma of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499794,8072/3-C34.1,"Squamous cell carcinoma, large cell, nonkeratinizing, NOS, of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499882,8140/3-C34.1,"Adenocarcinoma, NOS, of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499889,8254/3-C34.3,"Adenocarcinoma of lung, mixed mucinous and non-mucinous of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499915,8310/3-C34.1,"Clear cell adenocarcinoma, NOS, of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500061,8230/3-C34.1,"Solid carcinoma, NOS, of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500072,8480/3-C34.1,"Mucinous adenocarcinoma of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500114,8020/3-C34.2,"Carcinoma, undifferentiated, NOS, of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500183,8012/3-C34.2,"Large cell carcinoma, NOS, of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500188,8046/3-C34.3,"Non-small cell carcinoma of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500190,8071/3-C34.3,"Squamous cell carcinoma, keratinizing, NOS, of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500201,8470/3-C34.1,"Mucinous cystadenocarcinoma, NOS, of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500239,8084/3-C34.3,"Squamous cell carcinoma, clear cell type of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500287,8083/3-C34.1,"Basaloid squamous cell carcinoma of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500290,8140/3-C34.0,"Adenocarcinoma, NOS, of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500302,8481/3-C34.0,Mucin-producing adenocarcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500303,8481/3-C34.2,"Mucin-producing adenocarcinoma of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500343,8050/3-C34.0,"Papillary carcinoma, NOS, of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500348,8076/3-C34.3,"Squamous cell carcinoma, microinvasive of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500356,8250/3-C34.2,"Lepidic adenocarcinoma of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500359,8250/3-C34.3,"Lepidic adenocarcinoma of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500414,8255/3-C34.1,"Adenocarcinoma with mixed subtypes of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500415,8260/3-C34.3,"Papillary adenocarcinoma, NOS, of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500433,8072/3-C34.0,"Squamous cell carcinoma, large cell, nonkeratinizing, NOS, of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500448,8253/3-C34.1,"Adenocarcinoma of lung, mucinous of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500458,8490/3-C34.0,Signet ring cell carcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500577,8050/3-C34.1,"Papillary carcinoma, NOS, of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500587,8120/3-C34.9,"Transitional cell carcinoma, NOS, of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500629,8010/3-C34.2,"Carcinoma, NOS, of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500713,8046/3-C34.0,Non-small cell carcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500730,8260/3-C34.0,"Papillary adenocarcinoma, NOS, of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500790,8252/3-C34.2,"Bronchiolo-alveolar carcinoma, non-mucinous of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500841,8012/3-C34.1,"Large cell carcinoma, NOS, of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500855,8084/3-C34.1,"Squamous cell carcinoma, clear cell type of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500918,8012/3-C34.0,"Large cell carcinoma, NOS, of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+4110589,8012/3-C34.9,Large cell carcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500984,8070/3-C34.1,"Squamous cell carcinoma, NOS, of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501061,8052/3-C34.3,"Papillary squamous cell carcinoma of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501124,8012/3-C34.3,"Large cell carcinoma, NOS, of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501188,8071/3-C34.0,"Squamous cell carcinoma, keratinizing, NOS, of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501191,8073/3-C34.3,"Squamous cell carcinoma, small cell, nonkeratinizing of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501310,8074/3-C34.1,"Squamous cell carcinoma, spindle cell of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501335,8070/3-C34.0,"Squamous cell carcinoma, NOS, of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501357,8550/3-C34.3,"Acinar cell carcinoma of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501394,8052/3-C34.0,Papillary squamous cell carcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501404,8140/3-C34.3,"Adenocarcinoma, NOS, of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501411,8481/3-C34.3,"Mucin-producing adenocarcinoma of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501438,8250/3-C34.1,"Lepidic adenocarcinoma of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501471,8046/3-C34.2,"Non-small cell carcinoma of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501516,8074/3-C34.3,"Squamous cell carcinoma, spindle cell of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501567,8083/3-C34.2,"Basaloid squamous cell carcinoma of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501585,8550/3-C34.2,"Acinar cell carcinoma of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501613,8052/3-C34.1,"Papillary squamous cell carcinoma of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501617,8082/3-C34.1,"Lymphoepithelial carcinoma of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501707,8071/3-C34.9,"Squamous cell carcinoma, keratinizing, NOS, of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501709,8072/3-C34.2,"Squamous cell carcinoma, large cell, nonkeratinizing, NOS, of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501794,8251/3-C34.1,"Alveolar adenocarcinoma of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501795,8255/3-C34.0,Adenocarcinoma with mixed subtypes of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502006,8034/3-C34.0,Polygonal cell carcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502176,8260/3-C34.1,"Papillary adenocarcinoma, NOS, of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502329,8140/3-C34.2,"Adenocarcinoma, NOS, of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502334,8254/3-C34.1,"Adenocarcinoma of lung, mixed mucinous and non-mucinous of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502341,8480/3-C34.3,"Mucinous adenocarcinoma of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502390,8230/3-C34.3,"Solid carcinoma, NOS, of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502426,8014/3-C34.1,"Large cell carcinoma with rhabdoid phenotype of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502436,8083/3-C34.0,Basaloid squamous cell carcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502456,8073/3-C34.1,"Squamous cell carcinoma, small cell, nonkeratinizing of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502457,8074/3-C34.2,"Squamous cell carcinoma, spindle cell of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502466,8255/3-C34.3,"Adenocarcinoma with mixed subtypes of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502543,8480/3-C34.2,"Mucinous adenocarcinoma of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502549,8550/3-C34.1,"Acinar cell carcinoma of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502623,8253/3-C34.3,"Adenocarcinoma of lung, mucinous of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502676,8010/3-C34.1,"Carcinoma, NOS, of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502703,8255/3-C34.2,"Adenocarcinoma with mixed subtypes of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502711,8490/3-C34.1,"Signet ring cell carcinoma of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502764,8020/3-C34.3,"Carcinoma, undifferentiated, NOS, of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502810,8073/3-C34.0,"Squamous cell carcinoma, small cell, nonkeratinizing of main bronchus",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502876,8481/3-C34.1,"Mucin-producing adenocarcinoma of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502921,8071/3-C34.2,"Squamous cell carcinoma, keratinizing, NOS, of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502943,8260/3-C34.2,"Papillary adenocarcinoma, NOS, of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502949,8310/3-C34.3,"Clear cell adenocarcinoma, NOS, of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502952,8480/3-C34.0,Mucinous adenocarcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503004,8050/3-C34.9,"Papillary carcinoma, NOS, of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503010,8083/3-C34.3,"Basaloid squamous cell carcinoma of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503018,8252/3-C34.3,"Bronchiolo-alveolar carcinoma, non-mucinous of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503093,8481/3-C34.9,"Mucin-producing adenocarcinoma of lung, NOS",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503136,8071/3-C34.1,"Squamous cell carcinoma, keratinizing, NOS, of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503138,8072/3-C34.3,"Squamous cell carcinoma, large cell, nonkeratinizing, NOS, of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503152,8251/3-C34.2,"Alveolar adenocarcinoma of middle lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503204,8120/3-C34.1,"Transitional cell carcinoma, NOS, of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503537,8014/3-C34.3,"Large cell carcinoma with rhabdoid phenotype of lower lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503538,8020/3-C34.1,"Carcinoma, undifferentiated, NOS, of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+257503,8000/3-C34.0,Primary malignant neoplasm of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+4162250,8010/3-C34.0,Carcinoma of main bronchus,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44504990,8000/3-C34.1,"Neoplasm, malignant of upper lobe, lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+4157454,8000/3-C34.3,"Primary malignant neoplasm of lower lobe, bronchus or lung",NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+4155293,8010/3-C34.3,Carcinoma of lower lobe of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+258369,8000/3-C34.9,Primary malignant neoplasm of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+40492938,8010/3-C34.9,Carcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768920,8020/3-C34.9,Primary undifferentiated carcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+4115276,8046/3-C34.9,Non-small cell lung cancer,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45772938,8052/3-C34.9,Primary papillary squamous cell carcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+4110705,8070/3-C34.9,Squamous cell carcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768883,8073/3-C34.9,Primary small cell non-keratinizing squamous cell carcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768919,8083/3-C34.9,Primary basaloid squamous cell carcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768918,8084/3-C34.9,Primary clear cell squamous cell carcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768916,8140/3-C34.9,Primary adenocarcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768885,8230/3-C34.9,Primary solid carcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768931,8252/3-C34.9,Primary non-mucinous bronchiolo-alveolar carcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768932,8253/3-C34.9,Primary mucinous bronchiolo-alveolar carcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768930,8254/3-C34.9,Primary mixed mucinous and non-mucinous bronchiolo-alveolar carcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768880,8255/3-C34.9,Primary mixed subtype adenocarcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768886,8260/3-C34.9,Primary papillary adenocarcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+46272955,8310/3-C34.9,Primary clear cell adenocarcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768879,8333/3-C34.9,Primary fetal adenocarcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45769034,8470/3-C34.9,Primary mucinous cystadenocarcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768917,8480/3-C34.9,Primary mucinous adenocarcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45772933,8490/3-C34.9,Primary signet ring cell carcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768884,8550/3-C34.9,Primary acinar cell carcinoma of lung,NSCLC_DIAGNOSIS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date

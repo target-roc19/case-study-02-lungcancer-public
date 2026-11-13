@@ -1,0 +1,73 @@
+concept_id,concept_code,concept_name,bridge_concept_id,cdm_table_name,column_name_1,keep_date_column_name
+36518733,8005/3-C34.1,"Malignant tumor, clear cell type of upper lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36520546,8082/3-C34.8,Lymphoepithelial carcinoma of overlapping lesion of lung,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36522516,8005/3-C34.0,"Malignant tumor, clear cell type of main bronchus",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36522910,8005/3-C34.2,"Malignant tumor, clear cell type of middle lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36523297,8034/3-C34.8,Polygonal cell carcinoma of overlapping lesion of lung,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36524040,8123/3-C34.1,"Basaloid carcinoma of upper lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36524261,8014/3-C34.0,Large cell carcinoma with rhabdoid phenotype of main bronchus,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36526440,8014/3-C34.8,Large cell carcinoma with rhabdoid phenotype of overlapping lesion of lung,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36527742,8001/3-C34.2,"Tumor cells, malignant of middle lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36527781,8005/3-C34.9,"Malignant tumor, clear cell type of lung, NOS",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36529129,8001/3-C34.8,"Tumor cells, malignant of overlapping lesion of lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36529321,8034/3-C34.1,"Polygonal cell carcinoma of upper lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36530340,8000/3-C34.8,"Neoplasm, malignant of overlapping lesion of lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36530830,8010/3-C34.8,"Carcinoma, NOS, of overlapping lesion of lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36531398,8082/3-C34.3,"Lymphoepithelial carcinoma of lower lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36533051,8082/3-C34.9,"Lymphoepithelial carcinoma of lung, NOS",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36535188,8082/3-C34.0,Lymphoepithelial carcinoma of main bronchus,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36536720,8123/3-C34.8,Basaloid carcinoma of overlapping lesion of lung,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36539223,8034/3-C34.2,"Polygonal cell carcinoma of middle lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36539661,8034/3-C34.9,"Polygonal cell carcinoma of lung, NOS",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36540691,8123/3-C34.9,"Basaloid carcinoma of lung, NOS",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36545284,8005/3-C34.3,"Malignant tumor, clear cell type of lower lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36547553,8001/3-C34.1,"Tumor cells, malignant of upper lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36548902,8123/3-C34.3,"Basaloid carcinoma of lower lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36550921,8014/3-C34.9,"Large cell carcinoma with rhabdoid phenotype of lung, NOS",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36551824,8046/3-C34.8,Non-small cell carcinoma of overlapping lesion of lung,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36555136,8123/3-C34.2,"Basaloid carcinoma of middle lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36558543,8020/3-C34.8,"Carcinoma, undifferentiated, NOS, of overlapping lesion of lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36558592,8123/3-C34.0,Basaloid carcinoma of main bronchus,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36560935,8014/3-C34.2,"Large cell carcinoma with rhabdoid phenotype of middle lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36561699,8034/3-C34.3,"Polygonal cell carcinoma of lower lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36564290,8001/3-C34.3,"Tumor cells, malignant of lower lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36565647,8012/3-C34.8,"Large cell carcinoma, NOS, of overlapping lesion of lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36566035,8005/3-C34.8,"Malignant tumor, clear cell type of overlapping lesion of lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36567740,8020/3-C34.0,"Carcinoma, undifferentiated, NOS, of main bronchus",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36568135,8001/3-C34.0,"Tumor cells, malignant of main bronchus",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36568204,8001/3-C34.9,"Tumor cells, malignant of lung, NOS",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42511764,8023/3-C34.0,Nuclear protein in testis (NUT)-associated carcinoma of main bronchus,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42511775,8023/3-C34.1,"Nuclear protein in testis (NUT)-associated carcinoma of upper lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512043,8023/3-C34.3,"Nuclear protein in testis (NUT)-associated carcinoma of lower lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512060,8023/3-C34.9,"Nuclear protein in testis (NUT)-associated carcinoma of lung, NOS",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512108,8023/3-C34.8,Nuclear protein in testis (NUT)-associated carcinoma of overlapping lesion of lung,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+42512203,8023/3-C34.2,"Nuclear protein in testis (NUT)-associated carcinoma of middle lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499422,8046/3-C34.1,"Non-small cell carcinoma of upper lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+4311501,8000/3-C34.2,Primary malignant neoplasm of middle lobe of right lung,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499730,8082/3-C34.2,"Lymphoepithelial carcinoma of middle lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500114,8020/3-C34.2,"Carcinoma, undifferentiated, NOS, of middle lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500183,8012/3-C34.2,"Large cell carcinoma, NOS, of middle lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500188,8046/3-C34.3,"Non-small cell carcinoma of lower lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500629,8010/3-C34.2,"Carcinoma, NOS, of middle lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500713,8046/3-C34.0,Non-small cell carcinoma of main bronchus,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500841,8012/3-C34.1,"Large cell carcinoma, NOS, of upper lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500918,8012/3-C34.0,"Large cell carcinoma, NOS, of main bronchus",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+4110589,8012/3-C34.9,Large cell carcinoma of lung,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501124,8012/3-C34.3,"Large cell carcinoma, NOS, of lower lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501471,8046/3-C34.2,"Non-small cell carcinoma of middle lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501617,8082/3-C34.1,"Lymphoepithelial carcinoma of upper lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502006,8034/3-C34.0,Polygonal cell carcinoma of main bronchus,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502426,8014/3-C34.1,"Large cell carcinoma with rhabdoid phenotype of upper lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502676,8010/3-C34.1,"Carcinoma, NOS, of upper lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502764,8020/3-C34.3,"Carcinoma, undifferentiated, NOS, of lower lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503537,8014/3-C34.3,"Large cell carcinoma with rhabdoid phenotype of lower lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503538,8020/3-C34.1,"Carcinoma, undifferentiated, NOS, of upper lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+257503,8000/3-C34.0,Primary malignant neoplasm of main bronchus,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+4162250,8010/3-C34.0,Carcinoma of main bronchus,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44504990,8000/3-C34.1,"Neoplasm, malignant of upper lobe, lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+4157454,8000/3-C34.3,"Primary malignant neoplasm of lower lobe, bronchus or lung",NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+4155293,8010/3-C34.3,Carcinoma of lower lobe of lung,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+258369,8000/3-C34.9,Primary malignant neoplasm of lung,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+40492938,8010/3-C34.9,Carcinoma of lung,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768920,8020/3-C34.9,Primary undifferentiated carcinoma of lung,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+4115276,8046/3-C34.9,Non-small cell lung cancer,NSCLC_HISTOLOGY_OTHER,CONDITION_OCCURENCE,condition_concept_id,condition_start_date

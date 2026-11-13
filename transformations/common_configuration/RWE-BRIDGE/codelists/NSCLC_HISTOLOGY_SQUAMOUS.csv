@@ -1,0 +1,85 @@
+concept_id,concept_code,concept_name,bridge_concept_id,cdm_table_name,column_name_1,keep_date_column_name
+36520827,8072/3-C34.8,"Squamous cell carcinoma, large cell, nonkeratinizing, NOS, of overlapping lesion of lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36522039,8075/3-C34.0,"Squamous cell carcinoma, adenoid of main bronchus",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36522300,8050/3-C34.2,"Papillary carcinoma, NOS, of middle lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36524730,8073/3-C34.8,"Squamous cell carcinoma, small cell, nonkeratinizing of overlapping lesion of lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36525385,8120/3-C34.3,"Transitional cell carcinoma, NOS, of lower lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36525571,8075/3-C34.1,"Squamous cell carcinoma, adenoid of upper lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36531136,8078/3-C34.8,Squamous cell carcinoma with horn formation of overlapping lesion of lung,NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36531347,8084/3-C34.0,"Squamous cell carcinoma, clear cell type of main bronchus",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36531433,8051/3-C34.8,"Verrucous carcinoma, NOS, of overlapping lesion of lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36531819,8070/3-C34.8,"Squamous cell carcinoma, NOS, of overlapping lesion of lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36533515,8050/3-C34.8,"Papillary carcinoma, NOS, of overlapping lesion of lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36535903,8074/3-C34.8,"Squamous cell carcinoma, spindle cell of overlapping lesion of lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36537230,8051/3-C34.0,"Verrucous carcinoma, NOS, of main bronchus",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36538464,8078/3-C34.2,"Squamous cell carcinoma with horn formation of middle lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36538582,8051/3-C34.9,"Verrucous carcinoma, NOS, of lung, NOS",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36538987,8051/3-C34.3,"Verrucous carcinoma, NOS, of lower lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36541027,8078/3-C34.0,Squamous cell carcinoma with horn formation of main bronchus,NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36541640,8076/3-C34.8,"Squamous cell carcinoma, microinvasive of overlapping lesion of lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36541713,8083/3-C34.8,Basaloid squamous cell carcinoma of overlapping lesion of lung,NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36543984,8074/3-C34.9,"Squamous cell carcinoma, spindle cell of lung, NOS",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36545785,8075/3-C34.3,"Squamous cell carcinoma, adenoid of lower lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36548201,8075/3-C34.2,"Squamous cell carcinoma, adenoid of middle lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36549159,8076/3-C34.2,"Squamous cell carcinoma, microinvasive of middle lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36550929,8120/3-C34.0,"Transitional cell carcinoma, NOS, of main bronchus",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36552939,8076/3-C34.1,"Squamous cell carcinoma, microinvasive of upper lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36554307,8120/3-C34.2,"Transitional cell carcinoma, NOS, of middle lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36554642,8076/3-C34.9,"Squamous cell carcinoma, microinvasive of lung, NOS",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36554751,8084/3-C34.2,"Squamous cell carcinoma, clear cell type of middle lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36556975,8078/3-C34.1,"Squamous cell carcinoma with horn formation of upper lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36557711,8120/3-C34.8,"Transitional cell carcinoma, NOS, of overlapping lesion of lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36557751,8078/3-C34.9,"Squamous cell carcinoma with horn formation of lung, NOS",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36557771,8078/3-C34.3,"Squamous cell carcinoma with horn formation of lower lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36559186,8051/3-C34.2,"Verrucous carcinoma, NOS, of middle lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36560118,8052/3-C34.8,Papillary squamous cell carcinoma of overlapping lesion of lung,NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36561274,8052/3-C34.2,"Papillary squamous cell carcinoma of middle lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36561870,8075/3-C34.9,"Squamous cell carcinoma, adenoid of lung, NOS",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36562727,8051/3-C34.1,"Verrucous carcinoma, NOS, of upper lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36563600,8073/3-C34.2,"Squamous cell carcinoma, small cell, nonkeratinizing of middle lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36566369,8075/3-C34.8,"Squamous cell carcinoma, adenoid of overlapping lesion of lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36567060,8084/3-C34.8,"Squamous cell carcinoma, clear cell type of overlapping lesion of lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36567150,8074/3-C34.0,"Squamous cell carcinoma, spindle cell of main bronchus",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36567522,8071/3-C34.8,"Squamous cell carcinoma, keratinizing, NOS, of overlapping lesion of lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+36567972,8076/3-C34.0,"Squamous cell carcinoma, microinvasive of main bronchus",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499007,8050/3-C34.3,"Papillary carcinoma, NOS, of lower lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499010,8070/3-C34.2,"Squamous cell carcinoma, NOS, of middle lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499488,8070/3-C34.3,"Squamous cell carcinoma, NOS, of lower lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499726,8072/3-C34.9,"Squamous cell carcinoma, large cell, nonkeratinizing, NOS, of lung, NOS",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44499794,8072/3-C34.1,"Squamous cell carcinoma, large cell, nonkeratinizing, NOS, of upper lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500190,8071/3-C34.3,"Squamous cell carcinoma, keratinizing, NOS, of lower lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500239,8084/3-C34.3,"Squamous cell carcinoma, clear cell type of lower lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500287,8083/3-C34.1,"Basaloid squamous cell carcinoma of upper lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500343,8050/3-C34.0,"Papillary carcinoma, NOS, of main bronchus",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500348,8076/3-C34.3,"Squamous cell carcinoma, microinvasive of lower lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500433,8072/3-C34.0,"Squamous cell carcinoma, large cell, nonkeratinizing, NOS, of main bronchus",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500577,8050/3-C34.1,"Papillary carcinoma, NOS, of upper lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500587,8120/3-C34.9,"Transitional cell carcinoma, NOS, of lung, NOS",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500855,8084/3-C34.1,"Squamous cell carcinoma, clear cell type of upper lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44500984,8070/3-C34.1,"Squamous cell carcinoma, NOS, of upper lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501061,8052/3-C34.3,"Papillary squamous cell carcinoma of lower lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501188,8071/3-C34.0,"Squamous cell carcinoma, keratinizing, NOS, of main bronchus",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501191,8073/3-C34.3,"Squamous cell carcinoma, small cell, nonkeratinizing of lower lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501310,8074/3-C34.1,"Squamous cell carcinoma, spindle cell of upper lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501335,8070/3-C34.0,"Squamous cell carcinoma, NOS, of main bronchus",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501394,8052/3-C34.0,Papillary squamous cell carcinoma of main bronchus,NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501516,8074/3-C34.3,"Squamous cell carcinoma, spindle cell of lower lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501567,8083/3-C34.2,"Basaloid squamous cell carcinoma of middle lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501613,8052/3-C34.1,"Papillary squamous cell carcinoma of upper lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501707,8071/3-C34.9,"Squamous cell carcinoma, keratinizing, NOS, of lung, NOS",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44501709,8072/3-C34.2,"Squamous cell carcinoma, large cell, nonkeratinizing, NOS, of middle lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502436,8083/3-C34.0,Basaloid squamous cell carcinoma of main bronchus,NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502456,8073/3-C34.1,"Squamous cell carcinoma, small cell, nonkeratinizing of upper lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502457,8074/3-C34.2,"Squamous cell carcinoma, spindle cell of middle lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502810,8073/3-C34.0,"Squamous cell carcinoma, small cell, nonkeratinizing of main bronchus",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44502921,8071/3-C34.2,"Squamous cell carcinoma, keratinizing, NOS, of middle lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503004,8050/3-C34.9,"Papillary carcinoma, NOS, of lung, NOS",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503010,8083/3-C34.3,"Basaloid squamous cell carcinoma of lower lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503136,8071/3-C34.1,"Squamous cell carcinoma, keratinizing, NOS, of upper lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503138,8072/3-C34.3,"Squamous cell carcinoma, large cell, nonkeratinizing, NOS, of lower lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+44503204,8120/3-C34.1,"Transitional cell carcinoma, NOS, of upper lobe, lung",NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45772938,8052/3-C34.9,Primary papillary squamous cell carcinoma of lung,NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+4110705,8070/3-C34.9,Squamous cell carcinoma of lung,NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768883,8073/3-C34.9,Primary small cell non-keratinizing squamous cell carcinoma of lung,NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768919,8083/3-C34.9,Primary basaloid squamous cell carcinoma of lung,NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date
+45768918,8084/3-C34.9,Primary clear cell squamous cell carcinoma of lung,NSCLC_HISTOLOGY_SQUAMOUS,CONDITION_OCCURENCE,condition_concept_id,condition_start_date

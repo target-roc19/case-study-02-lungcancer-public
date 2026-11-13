@@ -1,0 +1,9 @@
+label,overall,exposed,control
+Person-months of follow-up,"150.0","60.0","90.0"
+"Median (Q1, Q3)","19.5 (10.5, 25.5)","15.0 (10.5, 19.5)","25.5 (16.5, 31.5)"
+"Min, Max","3.0, 36.0","6.0, 24.0","3.0, 36.0"
+"Censoring, n (%)",,,
+Death,"2 (25.0%)","1 (25.0%)","1 (25.0%)"
+End of max follow-up,"2 (25.0%)","1 (25.0%)","1 (25.0%)"
+End of data collection,"2 (25.0%)","1 (25.0%)","1 (25.0%)"
+End of study period,"2 (25.0%)","1 (25.0%)","1 (25.0%)"

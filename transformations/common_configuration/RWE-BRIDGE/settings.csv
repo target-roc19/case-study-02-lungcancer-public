@@ -1,0 +1,13 @@
+variable_name,dap_name,scope,data_type,value,comment
+recommended_end_date,NKR,dap_specific,DATE,,
+start_study_date,NKR,generic,DATE,,
+end_study_date,NKR,generic,DATE,,
+main_censoring_date,NKR,dap_specific,DATE,,min of recommended_end_date and end_study_date
+since_when_data_complete,NKR,dap_specific,DATE,,used for filtering records prior this date
+gap_allowed_thisdatasource,NKR,dap_specific,DATE,,assumed not applicable
+year_length,NKR,generic,INTEGER,365.25,
+month_length,NKR,generic,INTEGER,30.25,
+masking_min,NKR,dap_specific,INTEGER,NA,
+masking_max,NKR,dap_specific,INTEGER,NA,
+start_eligibility,NKR,generic,DATE,,
+end_eligibility,NKR,generic,DATE,,
